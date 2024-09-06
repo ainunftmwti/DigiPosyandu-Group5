@@ -1,0 +1,9 @@
+Lab 1: APEX Application Setup (Complete)
+Task 1: Create the Application
+Task 2: Launch Page
+Task 3: Use the Create Page Wizard
+Task 4: Change application home page
+
+Lab 2: Sign Up for Code Console (Complete)
+Task 1: Sign Up for Code Console
+Task 2: Register a new application
